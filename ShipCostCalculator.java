@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 // Class for Problem 1: ShipCostCalculator
 class Problem1 {
-    public void run() { // Run is just executing everthing inside of it
+    public static void main(String[]args) { // Run is just executing everthing inside of it
         Scanner x = new Scanner(System.in);// Scanner is just recceiveing the input and the scanners name is "x"
 
         // Get the item price
